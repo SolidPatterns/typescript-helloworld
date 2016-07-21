@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "sourceMap":  true,
+        "outFile": "tsc.js"
+    },
+    "files": [
+        "greeter.ts",
+        "product.ts",
+        "jquery.d.ts",
+        "https://code.jquery.com/jquery-3.1.0.min.js"
+    ]
+}
